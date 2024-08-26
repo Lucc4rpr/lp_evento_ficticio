@@ -11,14 +11,6 @@
         background-image: linear-gradient(variables.$blue2, variables.$pink);
     }
 
-    &--data-science {
-        background-image: linear-gradient(variables.$pink, variables.$yellow);
-    }
-
-    &--backend {
-        background-image: linear-gradient(variables.$yellow, variables.$pink);
-    }
-
     &--image-left {
         .container {
             flex-direction: row-reverse;
